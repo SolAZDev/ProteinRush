@@ -1,1 +1,2 @@
 # ProteinRush
+Renamed Nutrition Frenzy

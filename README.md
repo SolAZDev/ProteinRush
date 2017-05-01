@@ -1,2 +1,0 @@
-# ProteinRush
-Renamed Nutrition Frenzy
